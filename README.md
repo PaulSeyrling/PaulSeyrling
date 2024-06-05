@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Paul Seyrling
+👋 Hi, I’m Paul Seyrling
