@@ -1,10 +1,23 @@
 👋 Hi, I'm Paul Seyrling
 ========================================================================================================================================
 
-🔭 I’m currently working on [CoffeeWorld](https://coffeeworld.info/)
-  > A Coffee Database -> [Contribute Here!](https://github.com/PaulSeyrling/CoffeeWorld)
+Passionate Coffee Enjoyer!☕
 
-### Skills
+---
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,react)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=nodejs,git)](https://skillicons.dev)
-<br/>
+### 🔭 What I’m Currently Working On
+
+**[CoffeeWorld.info](https://coffeeworld.info/)**  
+
+  **Contribute:** Add your favorite coffees to the database!  **[Repository](https://github.com/PaulSeyrling/CoffeeWorld)**
+
+
+---
+
+### 🛠️ My Skills
+
+#### Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nextjs,react,tailwind)](https://skillicons.dev)
+
+#### Backend & DevOps
+[![My Skills](https://skillicons.dev/icons?i=supabase,git,ubuntu)](https://skillicons.dev)
