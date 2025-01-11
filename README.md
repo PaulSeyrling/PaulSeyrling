@@ -9,7 +9,7 @@ Passionate Coffee Enjoyer!☕
 
 **[CoffeeWorld.info](https://coffeeworld.info/)**  
 
-  **Contribute:** Add your favorite coffees to the database!  **[Repository](https://github.com/PaulSeyrling/CoffeeWorld)**
+  **Contribute:** Add your favorite coffees to the database!  **[Repository](https://github.com/PaulSeyrling/Coffee-api)**
 
 
 ---
